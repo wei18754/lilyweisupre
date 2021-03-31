@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\Dever_Rooms","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\Dever_Rooms","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Dever_Rooms_1\\DeverMessageBot"]}
